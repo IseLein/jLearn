@@ -12,3 +12,11 @@ A comprehensive result is generated upon request for each student and stored in 
 The results can then be printed into .txt files and can be accessed later on.
 
 This is a small scale prototype. It could be developed to large management systems for schools and even marketing organisations. A major improvement on this would be to use an effective database system (as opposed to the file system used in this one).
+
+## Contributors
+
+#XploreSTEMi
+IseOluwa Oluwagbotemi Daniel @IseLein
+Otuazohor Precious @OtuazohorPrecious
+Shiaki Nunsi @Omi-1
+Ojibo Victor @OjiboVictor
